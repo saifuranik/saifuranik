@@ -1,4 +1,4 @@
-[![MasterHead](https://wallpaperbat.com/img/873643-devops-archives.png)]
+![MasterHead](https://wallpaperbat.com/img/873643-devops-archives.png)
 <h1 align="center">Hi 👋, I'm Saifur Anik</h1>
 <h3 align="center">A passionate DevOps Engineer</h3>
 <img align="right" alt="DevOps" width="400" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*reRpiezl3EnhtteqjoGSLw.gif">
