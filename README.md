@@ -16,8 +16,7 @@
 
 - 📫 How to reach me **saifuranik1@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1E13d3A2p96LfSE48nmSUZvadaDy4n4aU/view?usp=sharing](https://drive.google.com/file/d/1E13d3A2p96LfSE48nmSUZvadaDy4n4aU/view?usp=sharing)
-
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1E13d3A2p96LfSE48nmSUZvadaDy4n4aU/view?usp=sharing](https://drive.google.com/file/d/1E13d3A2p96LfSE48nmSUZvadaDy4n4aU/view?usp=sharing]
 - ⚡ Fun fact **Funny,serious & fairness**
 
 ### Blogs posts
